@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Natours\r lean about atomic design from this youtube video -> https://youtu.be/Yi-A20x2dcA?si=FQaVaMYF7OT_T4kq",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css",
+    "watch:sass": "sass --watch sass:css"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahans/Natours.git"
+  },
+  "keywords": [],
+  "author": "anurag panuhar",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prahans/Natours/issues"
+  },
+  "homepage": "https://github.com/prahans/Natours#readme",
+  "devDependencies": {
+    "sass": "^1.97.3"
+  }
+}
