@@ -97,3 +97,5 @@ THE 7 FOLDERS
 .themes/
 .abstracts/
 .vendors/
+
+we can use :not sudo class 
