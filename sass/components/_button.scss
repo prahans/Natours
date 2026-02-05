@@ -8,7 +8,6 @@
         border-radius: 10rem;
         transition: all .2s;
         position: relative;
-        color: $color-gray-dark;
         font-size: $default-font-size;
         cursor: pointer;
     }
@@ -30,10 +29,19 @@
 
     &--white {
         background-color: $color-white;
-        columns: $color-gray-dark;
+        color: $color-gray-dark;
 
         &::after {
             background-color: $color-white;
+        }
+    }
+
+    &--green {
+        background-color: $color-primary;
+        color: $color-white;
+
+        &::after {
+            background-color: $color-primary;
         }
     }
 
