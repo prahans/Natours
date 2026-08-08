@@ -77,13 +77,13 @@ Open `index.html` in your browser.
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./screenshots/home1.png" alt="Natours Landing Page" width="500" />
-  <img src="./screenshots/home2.png" alt="Natours Landing Page" width="500" />
-  <img src="./screenshots/home3.png" alt="Natours Landing Page" width="500" />
-  <img src="./screenshots/card.png" alt="Natours Landing Page" width="500" />
-  <img src="./screenshots/review.png" alt="Natours Landing Page" width="500" />
-  <img src="./screenshots/form.png" alt="Natours Landing Page" width="500" />
-  <img src="./screenshots/navbar.png" alt="Natours Landing Page" width="500" />
+  <img src="./screenshots/home1.png" alt="Natours Landing Page" width="700" />
+  <img src="./screenshots/home2.png" alt="Natours Landing Page" width="700" />
+  <img src="./screenshots/home3.png" alt="Natours Landing Page" width="700" />
+  <img src="./screenshots/card.png" alt="Natours Landing Page" width="700" />
+  <img src="./screenshots/review.png" alt="Natours Landing Page" width="700" />
+  <img src="./screenshots/form.png" alt="Natours Landing Page" width="700" />
+  <img src="./screenshots/navbar.png" alt="Natours Landing Page" width="700" />
 </p>
 
 ---
