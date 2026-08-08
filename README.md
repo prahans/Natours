@@ -78,6 +78,7 @@ Open `index.html` in your browser.
 
 <p align="center">
   <img src="./screenshots/home1.png" alt="Natours Landing Page" width="500" />
+  <img src="./screenshots/home1.png" alt="Natours Landing Page" width="500" />
 </p>
 
 ---
