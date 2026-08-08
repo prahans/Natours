@@ -76,12 +76,8 @@ Open `index.html` in your browser.
 
 ## 📸 Screenshot
 
-Add a screenshot of the homepage here.
-
-Example:
-
 <p align="center">
-  <img src="./screenshots/home1.png" alt="Natours Landing Page" width="900" />
+  <img src="./screenshots/home1.png" alt="Natours Landing Page" width="500" />
 </p>
 
 ---
