@@ -76,15 +76,45 @@ Open `index.html` in your browser.
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="./screenshots/home1.png" alt="Natours Landing Page" width="700" />
-  <img src="./screenshots/home2.png" alt="Natours Landing Page" width="700" />
-  <img src="./screenshots/home3.png" alt="Natours Landing Page" width="700" />
-  <img src="./screenshots/card.png" alt="Natours Landing Page" width="700" />
-  <img src="./screenshots/review.png" alt="Natours Landing Page" width="700" />
-  <img src="./screenshots/form.png" alt="Natours Landing Page" width="700" />
-  <img src="./screenshots/navbar.png" alt="Natours Landing Page" width="700" />
-</p>
+<h2>📸 Screenshots</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/home1.png" alt="Home 1" width="350">
+    </td>
+    <td align="center">
+      <img src="./screenshots/home2.png" alt="Home 2" width="350">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./screenshots/home3.png" alt="Home 3" width="350">
+    </td>
+    <td align="center">
+      <img src="./screenshots/card.png" alt="Card" width="350">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./screenshots/review.png" alt="Review" width="350">
+    </td>
+    <td align="center">
+      <img src="./screenshots/form.png" alt="Form" width="350">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./screenshots/navbar.png" alt="Navbar" width="350">
+    </td>
+    <td align="center">
+      <img src="./screenshots/footer.png" alt="Footer" width="350">
+    </td>
+  </tr>
+</table>
 
 ---
 
