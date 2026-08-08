@@ -76,8 +76,6 @@ Open `index.html` in your browser.
 
 ## 📸 Screenshot
 
-<h2>📸 Screenshots</h2>
-
 <table>
   <tr>
     <td align="center">
@@ -143,8 +141,8 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 This project is for educational purposes only.
 
-//written by anurag
-Natours
+## Natours
+
 lean about atomic design from this youtube video -> https://youtu.be/Yi-A20x2dcA?si=FQaVaMYF7OT_T4kq
 
 BEM -> Block Element Modifier
