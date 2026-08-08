@@ -80,11 +80,9 @@ Add a screenshot of the homepage here.
 
 Example:
 
-```html
 <p align="center">
   <img src="./screenshots/home1.png" alt="Natours Landing Page" width="900" />
 </p>
-```
 
 ---
 
