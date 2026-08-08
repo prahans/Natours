@@ -1,8 +1,7 @@
 # Node modules
 node_modules/
 
-# Compiled CSS
-css/*.css
+# Compiled CSS map
 css/*.css.map
 
 # Logs
