@@ -1,5 +1,4 @@
 # 🌿 Natours
-# Project Name
 
 This project was built as part of the **Advanced CSS and Sass** course by Jonas Schmedtmann.
 
